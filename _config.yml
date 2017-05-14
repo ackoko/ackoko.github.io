@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Micronaut Tuned So Simple Theme
+title: ACKOKO‘s Blog
 locale: en_US
 timezone: CET
 description: Site Description
 logo: site-logo.svg
 search: true
-url: #your-site-url
+url: https://ackoko.github.io
 external_data_url: # common url for images and other external data
 
 # Jekyll configuration
@@ -43,9 +43,9 @@ paginate_path: /posts/page:num
 
 # Site owner
 owner:
-  name: Site Name
+  name: ACKOKO’s Blog
   avatar: site-logo.png
-  email: #youremail
+  email: ackoko11@gmail.com
   disqus-shortname: #your-disqus-shortname
   twitter: #your-twitter-name
   facebook: #username
